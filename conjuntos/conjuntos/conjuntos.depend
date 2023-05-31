@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589208541 source:c:\users\lenovo\desktop\conjuntos\conjuntos.c
+	"conjuntos.h"
+	<stdio.h>
+
+1583493604 c:\users\lenovo\desktop\conjuntos\conjuntos.h
+
+1589208395 source:c:\users\lenovo\desktop\conjuntos\prueba.c
+	<stdio.h>
+	<stdlib.h>
+	"conjuntos.h"
+

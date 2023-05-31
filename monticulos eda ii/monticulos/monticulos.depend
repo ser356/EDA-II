@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1589124173 source:c:\users\lenovo\desktop\monticulos eda ii\monticulo.c
+	<stdlib.h>
+	<stdio.h>
+	"monticulo.h"
+
+1519641646 c:\users\lenovo\desktop\monticulos eda ii\monticulo.h
+
+1589124892 source:c:\users\lenovo\desktop\monticulos eda ii\prueba1.c
+	<stdlib.h>
+	<stdio.h>
+	"monticulo.h"
+
+1589125517 source:c:\users\lenovo\desktop\monticulos eda ii\prueba2.c
+	<stdlib.h>
+	"monticulo.h"
+
+1589124892 source:c:\users\lenovo\desktop\monticulos eda ii\prueba1
+	<stdlib.h>
+	<stdio.h>
+	"monticulo.h"
+
